@@ -1,0 +1,6 @@
+Super User:- anshuman
+Password:- 123456789
+
+
+activation-command
+django-env\Scripts\activate.bat
